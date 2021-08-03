@@ -1,4 +1,6 @@
 ### Hi there 👋
+ssafy 6th ing,,,
+
 
 
 [![jeehwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joojeehwan)](https://github.com/anuraghazra/github-readme-stats)
