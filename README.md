@@ -5,7 +5,7 @@ ssafy 6th ing,,,
 
 [![jeehwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joojeehwan)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![joojeehwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 <!--
 **joojeehwan/joojeehwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
