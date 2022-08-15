@@ -1,7 +1,5 @@
 ### Hi there 👋
 ssafy 6th
-kt ds
-
 
 
 [![jeehwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joojeehwan&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
