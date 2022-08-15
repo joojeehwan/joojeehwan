@@ -1,5 +1,6 @@
 ### Hi there 👋
-ssafy 6th ing,,,
+ssafy 6th
+kt ds
 
 
 
